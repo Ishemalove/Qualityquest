@@ -1,9 +1,8 @@
 # 🌐 QualityQuest
 
 Welcome to QualityQuest 
-This project is a simple, elegant **About Page** built with **HTML, CSS, and JavaScript**, styled with multiple layers of purple for a modern look.  
-It introduces users to the purpose of the website, services offered, and commitment to quality assurance.
-
+Quality Quest is a web application that will provide users with information about quality assurance and quality standards. Our goal is to prevent quality failure. Unlock your full potential with our app, empowering you to achieve your goals and aspirations.
+Experience the ultimate convenience at your fingertips with our app, simplifying your life and saving you time. Streamline your tasks and boost your productivity with our app, helping you accomplish more in less time.
 ---
 
 ## 📌 Features
