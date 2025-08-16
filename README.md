@@ -1,6 +1,6 @@
-# 🌐 Quality Assurance Hub - About Page
+# 🌐 QualityQuest
 
-Welcome to the **Quality Assurance Hub** repository!  
+Welcome to QualityQuest 
 This project is a simple, elegant **About Page** built with **HTML, CSS, and JavaScript**, styled with multiple layers of purple for a modern look.  
 It introduces users to the purpose of the website, services offered, and commitment to quality assurance.
 
@@ -20,6 +20,3 @@ It introduces users to the purpose of the website, services offered, and commitm
 - **CSS3** – Styling with multiple shades of purple  
 - **JavaScript** – Adding interactivity (event listeners)  
 
----
-
-## 📂 Project Structure
